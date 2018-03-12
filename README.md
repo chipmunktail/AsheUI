@@ -13,7 +13,7 @@ npm install hjdtl-news -s
 1. 在Vue组件的script中引入该组件：
 
 ```javascript
-import News from 'hjdtl-news/src/news.vue'
+import News from 'hjdtl-news'
 ```
 
 2. 在Vue组件的template中实例化：
