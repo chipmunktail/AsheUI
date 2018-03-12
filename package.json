@@ -1,0 +1,16 @@
+{
+  "name": "hjdtl-news",
+  "version": "1.0.9",
+  "description": "a vue component",
+  "main": "./src/news",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "news"
+  ],
+  "author": "hjdtl",
+  "license": "ISC"
+}
