@@ -1,6 +1,6 @@
 {
   "name": "hjdtl-news",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a vue component",
   "main": "./src/news.vue",
   "scripts": {
@@ -12,5 +12,9 @@
     "news"
   ],
   "author": "hjdtl",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0"
+  }
 }
