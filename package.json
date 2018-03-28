@@ -1,8 +1,8 @@
 {
-  "name": "hjdtl-news",
-  "version": "1.1.1",
-  "description": "a vue component",
-  "main": "./src/news.vue",
+  "name": "ashe-ui",
+  "version": "1.0.4",
+  "description": "material design ui for vue2",
+  "main": "./dist/app.bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,17 @@
   "author": "hjdtl",
   "license": "ISC",
   "dependencies": {
-    "less": "^3.0.1",
-    "less-loader": "^4.1.0"
+    "less": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "css-loader": "^0.28.11",
+    "html-loader": "^0.5.5",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.20.3",
+    "vue-loader": "^14.2.2",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
   }
 }

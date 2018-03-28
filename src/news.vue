@@ -74,7 +74,7 @@
 
 <script>
     export default {
-        name: 'news',
+        name: 'd-news',
         props:['newsObj'],
         data() {
             return {
