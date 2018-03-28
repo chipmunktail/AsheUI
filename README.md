@@ -1,28 +1,29 @@
-# vue-news-panel
-a vue component for news list
+# AsheUI
+material design ui for vue2
 
 使用说明
 ## 下载
 在项目的根目录下安装改组件：
 
 ```npm
-npm install hjdtl-news -s
+npm install ashe-ui -s
 ```
 
 ## 使用
-1. 在Vue组件的script中引入该组件：
+1. 在项目入口的引入该框架：
 
 ```javascript
-import News from 'hjdtl-news'
+import AsheUI from 'ashe-ui'
+Vue.use(AsheUI,Vue)
 ```
 
 2. 在Vue组件的template中实例化：
 
 ```html 
-<news :newsObj=news />
+<d-news :newsObj=news />
 ```
 
-3. props数据说明
+3. d-news props数据说明
 
 在实例的组件通过newsObj接收数据，数据类型要求：
 ```javascript
@@ -51,4 +52,4 @@ data() {
 
 该组件还在更新中，欢迎issues。
 
-2018年3月12日
+2018年3月28日
