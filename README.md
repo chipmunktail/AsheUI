@@ -45,14 +45,6 @@ data() {
 webpack
 ```
 
-数据格式和属性：
-
-- type: Number 面板类型，1.左图片，右标题 2.左标题，右图片 3.无图片 4.上标题，下图片列表 5.上标题，下大图
-- imgList: Array 图片列表
-- title: String 文章标题
-- time: String 文章时间
-- author: String 作者等其他信息
-
 ## 其他
 
 组件清单
