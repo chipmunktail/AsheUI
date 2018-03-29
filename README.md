@@ -9,7 +9,7 @@ material design ui for vue2
 npm install ashe-ui -s
 ```
 
-## 使用
+## 使用(示例)
 1. 在项目入口的引入该框架：
 
 ```javascript
@@ -54,6 +54,13 @@ webpack
 - author: String 作者等其他信息
 
 ## 其他
+
+组件清单
+
+* news
+* slideDown
+* loading
+
 
 该组件还在更新中，欢迎issues。
 
