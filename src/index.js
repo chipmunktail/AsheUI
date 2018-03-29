@@ -1,7 +1,9 @@
-import news from './news.vue'
+import news from './news.vue';
+import slideDown from './slidedown.vue'
 
 const components = {
-    news
+    news,
+    slideDown
 };
 
 const install = function (Vue) {

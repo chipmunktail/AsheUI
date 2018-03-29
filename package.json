@@ -1,6 +1,6 @@
 {
   "name": "ashe-ui",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "material design ui for vue2",
   "main": "./dist/app.bundle.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "author": "hjdtl",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.3.1",
     "less": "^3.0.1"
   },
   "devDependencies": {
