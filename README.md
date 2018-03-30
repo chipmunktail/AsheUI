@@ -1,7 +1,7 @@
 # AsheUI
 Material design ui for vue2
 
-[中文](https://github.com/hjdtl/AsheUI/blob/master/README.md)
+[中文](https://github.com/hjdtl/AsheUI/blob/master/README.cn.md)
 
 
 ## Download
