@@ -1,6 +1,6 @@
 {
   "name": "ashe-ui",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "material design ui for vue2",
   "main": "./dist/app.bundle.js",
   "scripts": {

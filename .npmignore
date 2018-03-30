@@ -1,0 +1,5 @@
+/node_modules
+/.gitignore
+/.idea
+/src
+/webpack.config.js
