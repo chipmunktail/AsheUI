@@ -1,6 +1,8 @@
 # AsheUI
 material design ui for vue2
 
+[English](https://github.com/hjdtl/AsheUI)
+
 使用说明
 ## 下载
 在项目的根目录下安装改组件：
@@ -11,8 +13,6 @@ npm install ashe-ui -s
 
 ## 使用(示例)
 1. 在项目入口的引入该框架：
-
-[English](https://github.com/hjdtl/AsheUI)
 
 ```javascript
 import AsheUI from 'ashe-ui'
