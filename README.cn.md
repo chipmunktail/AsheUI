@@ -33,7 +33,7 @@ data() {
   return {
     news: {
           type: 5,
-          imgList: ["https://p3.pstatp.com/list/6ec60003439bd0e04b45", "https://p3.pstatp.com/list/6ec60003439bd0e04b45", "https://p3.pstatp.com/list/6ec60003439bd0e04b45"],
+          imgList: ["https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png"],
           title:'这是你的标题部分',
           time: '这里显示时间',
           author: '作者姓名等其他内容'
@@ -54,7 +54,7 @@ webpack
 * news
 * slideDown
 * loading
-
+* verification
 
 该组件还在更新中，欢迎issues。
 

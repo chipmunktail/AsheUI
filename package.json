@@ -1,7 +1,7 @@
 {
   "name": "ashe-ui",
-  "version": "1.0.10",
-  "description": "material design ui for vue2",
+  "version": "1.0.135",
+  "description": "material design ui for Vue2",
   "main": "./dist/app.bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

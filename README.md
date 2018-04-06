@@ -4,15 +4,15 @@ Material design ui for vue2
 [中文](https://github.com/hjdtl/AsheUI/blob/master/README.cn.md)
 
 
-## Download
+## Installation
 Install the component in the root directory of the project:
 
 ```npm
 npm install ashe-ui -s
 ```
 
-## Use (example)
-1. Import AsheUI at the entry of the project:
+## Usage (example)
+1. Import AsheUI at the entry of your project:
 
 ```javascript
 import AsheUI from 'ashe-ui'
@@ -33,7 +33,7 @@ data() {
   return {
     news: {
           type: 5,
-          imgList: ["https://p3.pstatp.com/list/6ec60003439bd0e04b45", "https://p3.pstatp.com/list/6ec60003439bd0e04b45", "https://p3.pstatp.com/list/6ec60003439bd0e04b45"],
+          imgList: ["https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png"],
           title:'This is title',
           time: 'This is date',
           author: 'author or other content'
@@ -54,5 +54,6 @@ Component list
 * news
 * slideDown
 * loading
+* verification
 
 [View on github](https://github.com/hjdtl/AsheUI)

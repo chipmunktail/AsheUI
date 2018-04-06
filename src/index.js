@@ -1,11 +1,13 @@
 import news from './news.vue';
 import slideDown from './slidedown.vue'
 import loading from './loading.vue'
+import verification from './verification.vue'
 
 const components = {
     news,
     slideDown,
-    loading
+    loading,
+    verification
 };
 
 const install = function (Vue) {
