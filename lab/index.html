@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--测试样式-->
+    <style>
+        @import "../static/loading.css";
+        @import "./lab.css";
+    </style>
+    <!--测试组件-->
+    <script src="lab.js"></script>
+</head>
+<body>
+<div id="root">
+    <loading></loading>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+<script>
+    //绑定测试组件
+    Vue.component('loading',loading19);
+
+
+
+
+    new Vue({
+        el:'#root'
+    })
+</script>
+</body>
+</html>

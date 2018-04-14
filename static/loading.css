@@ -1652,7 +1652,7 @@
   width: 50px;
   height: 50px;
   background: #279fcf;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   -webkit-animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
   animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite; }
 
