@@ -42,6 +42,15 @@ data() {
 }
 ```
 
+## props
+即将完成
+* news
+* slideDown
+* loading
+* verification
+* scrollbar object{withd,height,theme}
+
+
 ## 打包
 ```bash
 webpack

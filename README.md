@@ -42,6 +42,15 @@ data() {
 }
 ```
 
+## props
+todo this
+* news
+* slideDown
+* loading
+* verification
+* scrollbar object{withd,height,theme}
+
+
 ## Webpack
 ```bash
 webpack
@@ -55,5 +64,6 @@ Component list
 * slideDown
 * loading
 * verification
+* scrollbar
 
 [View on github](https://github.com/hjdtl/AsheUI)
